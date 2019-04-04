@@ -1,0 +1,22 @@
+{
+  "name": "slex-redux-loader",
+  "version": "1.0.0",
+  "description": "A middleware and utilities to simplify async data loading with redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexstroukov/slex-redux-loader.git"
+  },
+  "keywords": [
+    "slex-redux-loader"
+  ],
+  "author": "alexstroukov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexstroukov/slex-redux-loader/issues"
+  },
+  "homepage": "https://github.com/alexstroukov/slex-redux-loader#readme"
+}
