@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/alexstroukov/slex-libs.svg?style=svg)](https://circleci.com/gh/alexstroukov/slex-libs)
+[![CircleCI](https://circleci.com/gh/alexstroukov/slex-redux-loader.svg?style=svg)](https://circleci.com/gh/alexstroukov/slex-redux-loader)
 
 # Slex Redux Loader
 
