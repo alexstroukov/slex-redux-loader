@@ -1,0 +1,24 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"request": "launch",
+			"name": "Test",
+			"type": "node",
+			// Notice, we bypass the launcher and start the test runner directly
+			"program": "${workspaceRoot}/node_modules/mocha/bin/_mocha",
+			// run the tests in the test folder
+			"args": ["${workspaceRoot}/compiled/test"],
+			"cwd": "${workspaceRoot}",
+			"runtimeExecutable": null,
+			"console": "integratedTerminal",
+			"env": {
+				"NODE_ENV": "development"
+			},
+			"sourceMaps": true,
+			"outFiles": [
+				"${workspaceRoot}/compiled"
+			]
+		}
+	]
+}
